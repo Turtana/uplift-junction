@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/pc_2e_5f.unity
+  isLoaded: 1
+  isActive: 1
